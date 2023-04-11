@@ -1,4 +1,7 @@
-# banhotosa
+# Agendamento
+```
+Android App desenvolvido para facilitar no agendamento de serviços diversos
+```
 
 ## Project setup
 ```
